@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+src/main/__init__.py
+src/main/main.py
+src/testlib.egg-info/PKG-INFO
+src/testlib.egg-info/SOURCES.txt
+src/testlib.egg-info/dependency_links.txt
+src/testlib.egg-info/top_level.txt
+src/welcome/__init__.py
+src/welcome/hello.py
+src/welcome/whatsup.py
